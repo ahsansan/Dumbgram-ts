@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: black !important;
+  color: white !important;
+  font-family: Avenir !important;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+@font-face {
+  font-family: "Rochester";
+  src: local("Rochester"), url(./assets/fonts/Rochester.ttf) format("truetype");
+}
+
+@font-face {
+  font-family: "Avenir";
+  src: local("Avenir"), url(./assets/fonts/Avenir.otf) format("truetype");
+}
+
+@font-face {
+  font-family: "FontAwesomeSolid";
+  src: local("Avenir"),
+    url(./assets/fonts/FontAwesomeSolid.otf) format("truetype");
+}

@@ -1,0 +1,81 @@
+.info-modal .modal-content {
+  background-color: #1f1f1f !important;
+  border: 0 solid black !important;
+  border-radius: 15px !important;
+  padding: 30px 20px !important;
+}
+
+.login-auth-button {
+  background-color: white;
+  background-image: linear-gradient(
+    90deg,
+    #4dd4f7 0%,
+    #9090fb 36.46%,
+    #ff6b81 71.35%,
+    #fbdf63 100%
+  );
+  padding: 10px 45px !important;
+  border: 0px solid black !important;
+  border-radius: 5px !important;
+  font-weight: 500 !important;
+  font-size: 17px !important;
+  color: white !important;
+}
+
+.register-auth-button {
+  background-color: black !important;
+  padding: 10px 45px !important;
+  border-radius: 5px !important;
+  font-weight: 500 !important;
+  font-size: 17px !important;
+  color: white !important;
+  border: 0px solid black !important;
+}
+
+.form-auth-h {
+  margin-bottom: 36px !important;
+  font-weight: 700 !important;
+  color: white !important;
+}
+
+.form-auth-input {
+  margin-bottom: 20px !important;
+  background-color: #d2d2d240 !important;
+  border: 2px solid #d2d2d2 !important;
+  border-radius: 5px !important;
+  font-weight: 400 !important;
+  font-size: 17px !important;
+  color: #b1b1b1 !important;
+  padding: 10px !important;
+  width: 100% !important;
+  box-sizing: border-box !important;
+}
+
+.form-auth-button {
+  background-color: white;
+  background-image: linear-gradient(
+    90deg,
+    #4dd4f7 0%,
+    #9090fb 36.46%,
+    #ff6b81 71.35%,
+    #fbdf63 100%
+  );
+  padding: 15px !important;
+  width: 100% !important;
+  border: 0px solid black !important;
+  border-radius: 5px !important;
+  font-weight: 500 !important;
+  font-size: 17px !important;
+  color: white !important;
+  margin-bottom: 20px !important;
+}
+
+.form-auth-p {
+  text-align: center !important;
+  color: #b1b1b1 !important;
+  font-size: 18px !important;
+}
+
+span {
+  cursor: pointer;
+}
